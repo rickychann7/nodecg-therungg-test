@@ -2,7 +2,7 @@ node_modules
 /dashboard
 /extension
 /graphics
-types/schemas
+src/types/schemas
 
 /cfg
 /shared/dist
